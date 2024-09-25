@@ -1,0 +1,24 @@
+body{
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    line-height: 1,8;
+    color:#09e91f;
+}
+h1{
+    font-size:63px;
+    color: #303030;
+
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+#pacotes .figuras figure{
+    display:inline-block;
+}
+#pacote .figuras #pacotes .videos{
+    text-align: center;
+}
